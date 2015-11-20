@@ -1,0 +1,67 @@
+<style>
+
+.odscsubs{
+  margin-left:40px;
+  font-weight:bold;
+}
+
+div.warn {    
+  background-color: #fcf2f2;
+  border-color: #dFb5b4;
+  border-left: 5px solid #dfb5b4;
+  padding: 0.5em;
+}
+
+.imgODSC{
+  text-align:left;
+  margin-right:5px;
+}
+
+.imgJupyter, .imgPyspark, .imgPandas, .imgContainer0, .imgContainer1, .imgContainer2, .imgContainer3{
+  float:left;
+  margin-right:5px;
+}
+.jupytertext{
+  clear:left;
+  margin-right:5px;
+}
+
+
+.imgODSC > img{
+  height:142px;
+  width:600px;
+} 
+.imgJupyter > img{
+  height:200px;
+  width:200px;
+}
+.imgPyspark > img{
+  height:100px;
+}
+.imgPandas > img{
+  height:200px;
+}
+
+.imgContainer0 > img{
+  height:300px;
+  width:400px;
+}
+.imgContainer1 > img{
+  height:300px;
+  width:800px;
+}
+.imgContainer2 > img{
+  height:350px;
+  width:400px;
+}
+.imgContainer3 > img{
+  height:200px;
+  width:400px;
+}
+
+p{
+  text-align:left;
+  font-weight:bold;
+}
+
+ </style>
